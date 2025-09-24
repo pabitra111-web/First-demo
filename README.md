@@ -1,2 +1,3 @@
 # First-demo
-This is my first project
+This is my first Git project
+By - Pabitra Dutta
